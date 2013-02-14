@@ -9,5 +9,14 @@ we use:
 jQuery UI
 jQuery
 Chosen.js
+prettyPhoto.js
+toggleElements
+jqtransform
+ratingsys_targets
+ocSlider
+google streetview image API
+google maps API 
+youtube JS API
+backbone forms
 
 Contact me @ Issue Manager when a ticket called "Jobs" is open.
