@@ -1,10 +1,53 @@
-/ueberdocinsider
-/aktuelles
-/jobs
-/sofunktionierts
-/premium
-/werbekunden
-/
 
+		"/jobs"
+		"/management"
+		"/aktuelles"
+		
+		"/partner"
+		"/qualitaetsversprechen"
+		"/missbrauch"
+		//"/kontakt"
+		"/datenschutz"
+		"/verzeichnis"
+		"/vortragsliste"
+		"/veroeffentlichungen"
+		
+		"/beirat/profil"
+		"/sofunktionierts"
+		"/sofunktionierts_aerzte"
+		"/beirat/"
+		
+		"/werbekunden"
+		"/impressum"
+		"/faktenblatt"
+		"/nutzungsbedingungen"
+		"/ueberdocinsider"
+		"/downloads"
+	
+		"/pwforgot"(view:"/pwforgot")	
+		"/abgemeldet"(view:"/abgemeldet")
+	
+		"/premium"(view:"/sales/index")
+		"/produkte/more"(view:"/produkte/more")
+		"/produkte/index"(view:"/produkte/index")
+		"/agb"(view:"static_pages/agb")
+		"/agb_aerzte"(view:"static_pages/agb_aerzte")
+	
+		"500"(controller: "errors", action:"serverError")
+		"404"(controller: "errors", action:"notFound")
+		"/"
+	
+		"/kontakt"(view:"/kontakt/kontakt")
+		"/kontakt/test"(view:"/kontakt/kontakt")
+		"/landing/gold"(view:"/landing/gold")
+		"/landing/utah"(view:"landing/utah")
+		"/landing/sword"(view:"landing/sword")
+		"/landing/omaha"(view:"landing/omaha")
+		"/landing/hvb"(view:"landing/hvb")
+		"/registrierung/changePw"(view: "/user/changepw")
+		"/registrierung/newpw"(view: "/user/newpw")
+	
+		"/order/bestellen"(view:"/order/bestellen")
 
-.... tbc
+		"/hall-of-fame/index"(view:"/hall-of-fame/hall-of-fame")
+
