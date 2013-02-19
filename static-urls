@@ -19,41 +19,41 @@
 		"/verzeichnis"
 		"/vortragsliste"
 		"/veroeffentlichungen"
-			"/release1"(view:"/static_pages/release1")
-			"/release2"(view:"/static_pages/release2")
-			"/release3"(view:"/static_pages/release3")
-			"/release4"(view:"/static_pages/release4")
+			"/release1"
+			"/release2"
+			"/release3"
+			"/release4"
 
 		"/sofunktionierts"
 		"/sofunktionierts_aerzte"
 		"/beirat/"
-			"/beirat/herholz"(view:"beirat/profile/herholz")
-			"/herholz"(view:"beirat/profile/herholz")
-			"/beirat/meyer"(view:"beirat/profile/meyer")
-			"/meyer"(view:"beirat/profile/meyer")
-			"/beirat/tecklenburg"(view:"beirat/profile/tecklenburg")
-			"/tecklenburg"(view:"beirat/profile/tecklenburg")
-			"/beirat/trojan"(view:"beirat/profile/trojan")
-			"/trojan"(view:"beirat/profile/trojan")
-			"/beirat/ehlers"(view:"beirat/profile/ehlers")
-			"/ehlers"(view:"beirat/profile/ehlers")
-			"/beirat/bausch"(view:"beirat/profile/bausch")
-			"/bausch"(view:"beirat/profile/bausch")
-			"/beirat/schmeinck"(view:"beirat/profile/schmeinck")
-			"/schmeinck"(view:"beirat/profile/schmeinck")
-			"/beirat/bitzer"(view:"beirat/profile/blitzer")
-			"/bitzer"(view:"beirat/profile/blitzer")
-			"/beirat/rybak"(view:"beirat/profile/rybak")
-			"/rybak"(view:"beirat/profile/rybak")
-			"/beirat/thomae"(view:"beirat/profile/thomae")
-			"/thomae"(view:"beirat/profile/thomae")
-			"/beirat/albath"(view:"beirat/profile/albath")
-			"/albath"(view:"beirat/profile/albath")
-			"/beirat/klewes"(view:"beirat/profile/klewes")
-			"/klewes"(view:"beirat/profile/klewes")
-			"/beirat/preuss"(view:"beirat/profile/preuss")
-			"/preuss"(view:"beirat/profile/preuss")
-			"/werbekunden"(view:"static_pages/werbekunden")
+			"/beirat/herholz"
+			"/herholz"
+			"/beirat/meyer"
+			"/meyer"
+			"/beirat/tecklenburg"
+			"/tecklenburg"
+			"/beirat/trojan"
+			"/trojan"
+			"/beirat/ehlers"
+			"/ehlers"
+			"/beirat/bausch"
+			"/bausch"
+			"/beirat/schmeinck"
+			"/schmeinck"
+			"/beirat/bitzer"
+			"/bitzer"
+			"/beirat/rybak"
+			"/rybak"
+			"/beirat/thomae"
+			"/thomae"
+			"/beirat/albath"
+			"/albath"
+			"/beirat/klewes"
+			"/klewes"
+			"/beirat/preuss"
+			"/preuss"
+			"/werbekunden"
 		
 		"/werbekunden"
 		"/impressum"
@@ -88,5 +88,4 @@
 		"/order/bestellen"
 
 		"/hall-of-fame/index"
-		/hall-of-fame/index
-
+		/hall-of-fame/overview"
