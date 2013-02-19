@@ -1,6 +1,15 @@
 		"/jobs"
 		"/management"
 		"/aktuelles"
+			"/presse/15-11-2012-DocInsider-kooperiert-mit-dem-Marktfuerer"(view:"/static_pages/presse/presse3")
+			"/presse/22-10-2012-DocInsider-vereinbart-Kooperation-mit-Hypovereinsbank"(view:"/static_pages/presse/presse2")
+			"/presse/10-10-2012-DocInsider-beschliesst-weitere-Kapitalerhoehung"(view:"/static_pages/presse/aktuelles")
+			"/presse/24-10-2010-Arztbewertung-mit-dem-iPad"(view:"/static_pages/presse/presse4")
+			"/presse/29-07-2010-Docinsider-kooperiert"(view:"/static_pages/presse/presse5")
+			"/presse/13-01-2010-Docinsider-bietet-erstmalig-eine-wissenschaftlich-fundierte-Bewertungsmethodik"(view:"/static_pages/presse/presse6")
+			"/presse/23-06-2009-BGH-Urteil-staerkt-Recht-auf-Meinungsfreiheit-auch-fuer-Patienten"(view:"/static_pages/presse/presse7")
+			"/presse/02-03-2009-DocInsider-fuehrt-wissenschaftliche-Befragung-bei-Arztbewertungsportalen-ein"(view:"/static_pages/presse/presse8")
+		
 		
 		"/partner"
 		"/qualitaetsversprechen"
@@ -10,11 +19,41 @@
 		"/verzeichnis"
 		"/vortragsliste"
 		"/veroeffentlichungen"
-		
-		"/beirat/profil"
+			"/release1"(view:"/static_pages/release1")
+			"/release2"(view:"/static_pages/release2")
+			"/release3"(view:"/static_pages/release3")
+			"/release4"(view:"/static_pages/release4")
+
 		"/sofunktionierts"
 		"/sofunktionierts_aerzte"
 		"/beirat/"
+			"/beirat/herholz"(view:"beirat/profile/herholz")
+			"/herholz"(view:"beirat/profile/herholz")
+			"/beirat/meyer"(view:"beirat/profile/meyer")
+			"/meyer"(view:"beirat/profile/meyer")
+			"/beirat/tecklenburg"(view:"beirat/profile/tecklenburg")
+			"/tecklenburg"(view:"beirat/profile/tecklenburg")
+			"/beirat/trojan"(view:"beirat/profile/trojan")
+			"/trojan"(view:"beirat/profile/trojan")
+			"/beirat/ehlers"(view:"beirat/profile/ehlers")
+			"/ehlers"(view:"beirat/profile/ehlers")
+			"/beirat/bausch"(view:"beirat/profile/bausch")
+			"/bausch"(view:"beirat/profile/bausch")
+			"/beirat/schmeinck"(view:"beirat/profile/schmeinck")
+			"/schmeinck"(view:"beirat/profile/schmeinck")
+			"/beirat/bitzer"(view:"beirat/profile/blitzer")
+			"/bitzer"(view:"beirat/profile/blitzer")
+			"/beirat/rybak"(view:"beirat/profile/rybak")
+			"/rybak"(view:"beirat/profile/rybak")
+			"/beirat/thomae"(view:"beirat/profile/thomae")
+			"/thomae"(view:"beirat/profile/thomae")
+			"/beirat/albath"(view:"beirat/profile/albath")
+			"/albath"(view:"beirat/profile/albath")
+			"/beirat/klewes"(view:"beirat/profile/klewes")
+			"/klewes"(view:"beirat/profile/klewes")
+			"/beirat/preuss"(view:"beirat/profile/preuss")
+			"/preuss"(view:"beirat/profile/preuss")
+			"/werbekunden"(view:"static_pages/werbekunden")
 		
 		"/werbekunden"
 		"/impressum"
